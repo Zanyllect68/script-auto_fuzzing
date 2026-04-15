@@ -73,6 +73,3 @@ Puedes agregar nuevas herramientas o modificar los menús editando los archivos 
 - **Facilidad para trabajar en equipo**
 
 ---
-
-**Autores:** Andres Felipe Galeano Tellez, Daniel Manrique Hernandez, Laura Yulieth Lopez Albino
-**Fecha de inicio:** 2025-09-01
